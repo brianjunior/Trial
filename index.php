@@ -60,7 +60,7 @@ if(isset($_POST['btn-login']))
 		<div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-4">
 			<div class="login-panel panel panel-default">
 				
-				<div class="panel-heading text-center">Vehicle Sales Management System</div>
+				<div class="panel-heading text-center">VEHICLE SALES MANAGEMENT SYSTEM</div>
 				<div class="panel-body">
 					<form role="form" method="post">
 						<fieldset>
